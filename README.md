@@ -27,6 +27,6 @@
 
 **2.2** [Изучить и оценить профессиональный кодекс этики ACM, IEEE Computer Society и других организаций.](https://github.com/SArtemS/SArtemS.github.io/blob/main/%D0%92%D0%A1%D0%A0/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.2%20%D0%92%D0%A1%D0%A0.pdf)
 
-**2.3** [Изучить и оценить профессиональный кодекс этики ACM, IEEE Computer Society и других организаций.](https://github.com/SArtemS/SArtemS.github.io/blob/main/%D0%92%D0%A1%D0%A0/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.2%20%D0%92%D0%A1%D0%A0.pdf)
+**2.3** [Изучить прикладное программное обеспечение информационно-вычислительной системы предприятия (организации). ](https://github.com/SArtemS/SArtemS.github.io/blob/main/%D0%92%D0%A1%D0%A0/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.2%20%D0%92%D0%A1%D0%A0.pdf)
 
 **2.4** [Изучить технические средства информационно-вычислительной системы предприятия (организации).](https://github.com/SArtemS/SArtemS.github.io/blob/main/%D0%92%D0%A1%D0%A0/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.4%20%D0%92%D0%A1%D0%A0.pdf)
